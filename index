@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My GitHub HTML Index</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub HTML Index</h1>
+    <ul>
+        <li><a href="file1.html" target="_blank">file1.html</a></li>
+        <li><a href="file2.html" target="_blank">file2.html</a></li>
+        <li><a href="file3.html" target="_blank">file3.html</a></li>
+        <!-- Add more files as needed -->
+    </ul>
+    <p>Edit this index file to add, remove, or update links as your HTML files change.</p>
+</body>
+</html>
